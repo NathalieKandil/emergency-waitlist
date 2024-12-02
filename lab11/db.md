@@ -36,7 +36,7 @@ This entity manages different hospital areas and their specific resources, helpi
 - `notes` (text): Additional medical observations
 
 ### Department Attributes:
-- `department_id` (integer): PRIMARY KEY, unique identifier for each department
+- `department_id`(integer): PRIMARY KEY, unique identifier for each department
 - `name` (varchar): Department name (ER, ICU, General, etc.)
 - `capacity` (integer): Maximum number of patients
 - `current_load` (integer): Current number of patients
