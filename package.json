@@ -1,0 +1,16 @@
+{
+  "name": "emergency-waitlist",
+  "version": "1.0.0",
+  "description": "The Hospital Triage App provides a streamlined interface for emergency room management, serving both patients and medical staff. Our design emphasizes simplicity, accessibility, and rapid response capabilities in high-pressure situations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.1"
+  }
+}
